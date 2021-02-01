@@ -1,5 +1,5 @@
 {
-  "name": "Taivan macho alfa",
+  "name": "alfa",
   "version": "0.0.2",
   "description": "Only termux",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "Taivan macho alfa",
+  "author": "alfa",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
@@ -40,10 +40,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/bruxinho19/bruxinhobr"
+    "url": "https://github.com/taivanshelby/taivanBOT"
   },
   "bugs": {
-    "url": "https://github.com/bruxinho19/bruxinhobr.git"
+    "url": "https://github.com/taivanshelby/taivanBOT.git"
   },
-  "homepage": "https://github.com/bruxinho19/bruxinhobr#readme"
+  "homepage": "https://github.com/taivanshelby/taivanBOT#readme"
 }
